@@ -32,4 +32,5 @@ correct_punctuation = "I stepped on a Corn Flake, now I'm a cereal killer."
 puts first_word_capitalized_and_ends_with_punctuation?(correct_punctuation)
 
 # valid_numbers = ['2438894546', '(718)891-1313', '234 435 9978', '(800)4261134']
-# puts valid_phone_number?(valid_numbers)
+#need to use loop to go through array, lab test does it for us
+# puts valid_phone_number?('2438894546')
